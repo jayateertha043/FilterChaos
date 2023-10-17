@@ -1,0 +1,59 @@
+name: Filter Chaos and Push CSV
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Schedule the workflow to run daily at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  run_filter_chaos:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Run FilterChaos.py (private)
+      run: python FilterChaos.py private bounty
+      env:
+        OUTPUT_FILENAME: private_bug_bounty_programs.csv
+
+    - name: Run FilterChaos.py (hackerone)
+      run: python FilterChaos.py hackerone bounty
+      env:
+        OUTPUT_FILENAME: hackerone_bug_bounty_programs.csv
+
+    - name: Run FilterChaos.py (bugcrowd)
+      run: python FilterChaos.py bugcrowd bounty
+      env:
+        OUTPUT_FILENAME: bugcrowd_bug_bounty_programs.csv
+
+    - name: Run FilterChaos.py (yeswehack)
+      run: python FilterChaos.py yeswehack bounty
+      env:
+        OUTPUT_FILENAME: yeswehack_bug_bounty_programs.csv
+
+    - name: Run FilterChaos.py (intigriti)
+      run: python FilterChaos.py intigriti bounty
+      env:
+        OUTPUT_FILENAME: intigriti_bug_bounty_programs.csv
+
+    - name: Run FilterChaos.py (hackenproof)
+      run: python FilterChaos.py hackenproof bounty
+      env:
+        OUTPUT_FILENAME: hackenproof_bug_bounty_programs.csv
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "jayateertha043@gmail.com"
+        git config --local user.name "jayateertha043"
+        git add *.csv
+        git commit -m "Update CSV files"
+        git push
