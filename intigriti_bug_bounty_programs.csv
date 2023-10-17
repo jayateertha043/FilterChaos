@@ -1,0 +1,8 @@
+name,url,bounty,swag,domains
+cLabs,https://app.intigriti.com/programs/clabs/clabs/detail,True,False,['celo.org']
+DPG Media,https://app.intigriti.com/programs/dpgm/dpgmedia/detail,True,,"['dpgmedia.be', 'dpgmedia.nl']"
+Intigriti,https://app.intigriti.com/programs/intigriti/intigriti/detail,True,,['intigriti.com']
+Telenet,https://app.intigriti.com/programs/telenet/telenetgroup/detail,True,,"['9lives.be', 'base.be', 'telenet.be', 'telenethotspot.be', 'yelo.be', 'yeloplay.be']"
+Torfs,https://app.intigriti.com/programs/torfs/torfs/detail,True,,"['torfs.be', 'rieker-shop.be', 'schoenentorfs.be', 'schoenentorfs.nl']"
+Tweakers,https://app.intigriti.com/programs/dpgm/tweakers/detail,True,,"['tweakblogs.net', 'tweakers.net', 'tweakimg.net']"
+Uphold,https://app.intigriti.com/programs/Uphold/upholdcom/detail,True,False,['uphold.com']

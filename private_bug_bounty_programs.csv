@@ -1,0 +1,136 @@
+name,url,bounty,swag,domains
+84codes,https://www.84codes.com/security,True,,"['cloudamqp.com', 'cloudkarafka.com', 'elephantsql.com', 'cloudmqtt.com']"
+Achmea,https://www.achmea.nl/en/responsibledisclosure,True,,"['achmea.nl', 'syntrus.com', 'woonfonds.nl', 'fbto.nl', 'averoachmea.nl', 'union.sk', 'centraalbeheer.nl', 'defriesland.nl', 'eurocross.com', 'interpolis.nl', 'prolife.nl', 'zilverenkruis.nl', 'achmea.com.au', 'eurekosigorta.com.tr', 'interamerican.gr', 'actify.nl', 'onlia.ca']"
+Adafruit,https://www.adafruit.com/reportingsecurityissues,True,,"['adafruit.com', 'adafruitdaily.com']"
+Agicap,https://agicap.com/en/bug-bounty/,True,False,['agicap.com']
+Amon,https://amon.tech/bug-bounty-program,True,False,['amon.tech']
+Apple,https://security.apple.com,True,False,"['apple.com', 'icloud.com']"
+Apsis,https://www.apsis.com/bug-bounty,True,,['apsis.com']
+Arrival,https://arrival.com/legal/security#purpose,True,False,"['arrival.com', 'arrival.co']"
+Automata Network,https://www.ata.network/bugbounty,True,,"['ata.network', '1rpc.io', '2fa.guru', 'nftfair.app', 'anydao.app', 'xata.fi']"
+Avail Carsharing,https://availcarsharing.com/bug-bounty,True,False,['availcarsharing.com']
+AVROTROS,https://www.avrotros.nl/privacy/responsible-disclosure/,True,,['avrotros.nl']
+Baidu,https://bsrc.baidu.com/v2/#/en,True,,"['baidu.com', 'hao123.com']"
+Bentley,https://www.bentley.com/legal/common-vulnerability-exposure-program/,True,,['bentley.com']
+Bitfinex,https://www.bitfinex.com/bug-bounty/,True,,['bitfinex.com']
+Bluesnap,https://home.bluesnap.com/security-bounty/,True,,['bluesnap.com']
+BtcTurk,https://www.btcturk.com/odul-avciligi,True,False,['btcturk.com']
+Buffer,https://buffer.com/legal#security,True,,['buffer.com']
+BugBase,https://bugbase.in/programs/bugbase,True,True,['bugbase.in']
+Bugv,https://app.bugv.io/researcher/program/0000001/detail,True,,['bugv.io']
+Chargezoom,https://chargezoom.com/bugbounty/,True,,['payportal.net']
+Clickup,https://clickup.com/bug-bounty,True,,['clickup.com']
+Clio,https://support.clio.com/hc/en-us/articles/360001114273-How-do-I-Claim-a-Bug-Bounty-or-Report-a-Vulnerability-,True,,['clio.com']
+CodeChef,https://www.codechef.com/bug-bounty-program,True,False,['codechef.com']
+Custellence,https://custellence.com/responsible-disclosure.html,True,,['custellence.com']
+Cynical Technology,https://app.bugv.io/researcher/program/0000006/detail,True,,"['cynicaltechnology.com', 'cynicaltechnology.com.np', 'cynical.com.np']"
+D66,https://d66.nl/responsible-disclosure/,True,,['d66.nl']
+Danskebank,https://danskebank.com/responsible-disclosure,True,False,"['danskebank.com', 'danskebank.dk', 'june.dk', 'sunday.dk']"
+Datto VDP,https://www.datto.com/legal/vulnerability-disclosure-program,True,True,"['autotask.net', 'backupify.com', 'bitdam.com', 'centrastage.net', 'cloudtrax.com', 'datto.com', 'dattobackup.com', 'gluh.co', 'openmesh.com', 'infocyte.com', 'soonr.com']"
+Deutsche Telekom,https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/closing-security-gaps-360054,True,,"['telekom.de', 'telekom.net', 'telekom.com', 't-systems.com']"
+Discord,https://canary.discord.com/security,True,,['discord.com']
+DJI,https://security.dji.com/policy?lang=en_US,True,,"['dji.com', 'skypixel.com', 'djicdn.com', 'djivideos.com', 'dji.net', 'robomaster.com', 'djiservice.org']"
+Doist,https://todoist.com/help/articles/doist-bug-bounty-policy,True,,"['todoist.com', 'twist.com']"
+Dokobit,https://www.dokobit.com/compliance/vulnerability-disclosure-policy,True,,['dokobit.com']
+Easyname,https://www.easyname.de/de/support/easyname/253-bug-bounty-programm,True,,['easyname.com']
+Easyprojects,https://www.easyprojects.net/company/vulnerability-reward-program/,True,,['easyprojects.net']
+EC-Council,https://www.eccouncil.org/bug-bounty/,True,,['eccouncil.org']
+Empuls,https://www.empuls.io/bug-bounty,True,,['empuls.io']
+Facebook,https://www.facebook.com/whitehat,True,,"['facebook.com', 'fb.com', 'fb.me', 'messenger.com', 'thefacebook.com', 'accountkit.com', 'instagram.com', 'freebasics.com', 'internet.org', 'oculus.com', 'whatsapp.com', 'meta.com', 'mapillary.com', 'whatsapp.net']"
+fidentity,https://gobugfree.com/programs/fidentity,True,,['fidentity.ch']
+Fondy,https://docs.fondy.eu/en/docs/page/bug-bounty-program,True,False,"['fondy.eu', 'fondy.io', 'fondy.ua', 'fondy.ru', 'cloudipsp.com', 'cipsp.net']"
+Geotab,https://community.geotab.com/s/article/How-to-report-security-vulnerabilities?language=en_US,True,False,['geotab.com']
+GObugfree,https://gobugfree.com/programs/bbh,True,,['gobugfree.com']
+Google,https://www.google.com/about/appsecurity/reward-program/,True,,"['google.com', 'youtube.com', 'projectbaseline.com', 'onduo.com', 'verily.com', 'blogger.com', 'signalpath.com']"
+Grafana Labs,https://github.com/grafana/bugbounty,True,,[]
+Grofers,https://grofers.com/bug-bounty,True,,['grofers.com']
+Groww,https://groww.in/p/security/,True,,['groww.in']
+H&M Group,https://www2.hm.com/security.txt,True,False,"['hm.com', 'cos.com', 'weekday.com', 'monki.com', 'arket.com', 'afound.com', 'stories.com']"
+Hake Finance,https://immunefi.com/bounty/hakkafinance/,True,,"['hakka.finance', 'igain.finance']"
+Hootsuite,https://www.hootsuite.com/security,True,True,"['hootsuite.com', 'ow.ly']"
+Hostinger,https://www.hostinger.in/responsible-disclosure-policy,True,,"['hostinger.com', 'zyro.com', 'hosting24.com']"
+HTC,https://www.htc.com/in/terms/product-security/,True,,['htc.com']
+ImpactGuru,https://www.impactguru.com/bug-bounty,True,,['impactguru.com']
+INDmoney,https://www.indmoney.com/page/bug-bounty,True,False,"['indmoney.com', 'indiawealth.in']"
+Instamojo,https://support.instamojo.com/hc/en-us/articles/207758769-Instamojo-Bug-Bounty-Policy,True,,['instamojo.com']
+Itslearning,https://itslearning.com/global/your-data-matters/responsible-disclosure/,True,,['itslearning.com']
+Jivochat,https://jivochat.com/bugbounty/,True,,['jivosite.com']
+Kraken,https://www.kraken.com/en-us/features/security/bug-bounty,True,,"['kraken.com', 'cryptowat.ch', 'cryptofacilities.com', 'cfbenchmarks.com']"
+Lido Finance,https://immunefi.com/bounty/lido/,True,,['lido.fi']
+LiquidWeb,https://www.liquidweb.com/about-us/policies/bug-bounty-program/,True,,['liquidweb.com']
+LogMeOnce,https://www.logmeonce.com/vulnerability-disclosure-policy/,True,,['logmeonce.com']
+Make,https://www.make.com/en/bounty,True,False,['make.com']
+MakeMyTrip,https://www.makemytrip.com/pwa-hlp/mmtbb/report,True,,['makemytrip.com']
+MakerDAO Ecosystem,https://immunefi.com/bounty/makerdao/,True,,['makerdao.com']
+McDelivery,https://www.mcdelivery.co.in/bug-bounty,True,,['mcdelivery.co.in']
+Meituan,https://security.meituan.com/,True,,"['meituan.com', 'meituan.net', 'dianping.com', 'neixin.cn']"
+Microsoft Online Services,https://www.microsoft.com/en-us/msrc/bounty-online-services,True,,"['office.com', 'live.com', 'onedrive.com', 'office365.com', 'sharepoint.com', 'lync.com', 'yammer.com', 'sway.com', 'microsoft.com', 'live.net', 'skype.com']"
+MobiKwik,https://www.mobikwik.com/bug-bounty/guidelines,True,False,['mobikwik.com']
+Mobile DE,https://app.zerocopter.com/de/cvd/aef29c56-5295-4789-b848-3f121eeca350,True,,['mobile.de']
+Mollie,https://www.mollie.com/responsible-disclosure,True,,['mollie.com']
+Mujs,https://mujs.com/security.html,True,,['mujs.com']
+N26,https://n26.com/en-eu/bug-bounty-program,True,,"['tech26.de', 'n26.com']"
+Narkasa,https://support.narkasa.com/hc/en-us/articles/360011019458-Bug-Bounty,True,False,['narkasa.com']
+Nextiva,https://www.nextiva.com/security-policy.html,True,,"['nextiva.com', 'nextos.com']"
+ngrok,https://ngrok.com/security/disclosure-and-reward-program,True,,"['ngrok.com', 'ngrok.io', 'ngrok-free.app', 'ngrok-free.dev', 'ngrok.app', 'ngrok.dev']"
+NOS,https://over.nos.nl/organisatie/regelgeving/,True,,['nos.nl']
+Nozbe,https://nozbe.com/bug-bounty/,True,,['nozbe.com']
+Offensive Security,https://www.offensive-security.com/bug-bounty-program/,True,,"['offensive-security.com', 'exploit-db.com', 'kali.org', 'backtrack-linux.org']"
+Ola,https://whitehat.olacabs.com,True,,"['olacabs.com', 'olamoney.com', 'ola.foundation', 'olaskilling.in', 'olaelectric.in', 'mission-electric.in', 'ola.institute']"
+OMG Nepal,https://app.bugv.io/researcher/program/0000005/detail,True,,['omgnepal.com']
+On2it,https://on2it.net/en/responsible-disclosure/,True,,['on2it.net']
+OnePlus,https://security.oneplus.com/,True,,"['oneplus.com', 'oneplus.in', 'oneplus.net', 'oneplus.cn', 'oneplusbbs.com', 'h2os.com', 'onepl.us', '1plus.io', 'oxygenos.com', 'onepluscorp.cn']"
+Oppo,https://security.oppo.com/en/noticedetails.html?noticeId=20201578399519447,True,,"['oppo.com', 'oppo.cn', 'myoppo.com', 'opposhop.cn', 'coloros.com', 'nearme.com.cn', 'oppomobile.com', 'oppofind.com', 'heytap.com', 'heytapmobi.com', 'realme.com', 'realme.net', 'oppopay.com', 'keke.cn', 'myoas.com', 'oppoer.me', 'wanyol.com', 'heytapmobile.com', 'heytapdownload.com', 'heytapimage.com', 'finzfin.com', 'realmeservice.com', 'realmemobile.com', 'realmebbs.com', 'myoas.net', 'realmepaysa.com', 'realme.com.tw', 'oppodigital.com', 'oppodigital.pl', 'oppothai.com', 'oppostore.com', 'oppodvd.com']"
+Oro,https://oroinc.com/bug-bounty/,True,,['oroinc.com']
+OYO,https://www.oyorooms.com/responsible-disclosure,True,,['oyorooms.com']
+Parity,https://www.parity.io/bug-bounty/,True,,['parity.io']
+Pasls Store,https://app.bugv.io/researcher/program/0000008/detail,True,,"['zimisa.com', 'pasls.com']"
+Paytm,https://bugbounty.paytm.com,True,,"['paytm.com', 'paytm.in', 'paytmmall.com', 'paytmbank.com', 'paytmfirstgames.com', 'gamepind.com', 'paytmmoney.com', 'paytm.ca', 'paytmlabs.com', 'mypaytm.com']"
+PGGM,https://www.pggm.nl/en/responsible-disclosure,True,,['pggm.nl']
+Picky Assist,https://pickyassist.com/blog/bug-bounty-program-bug-beacon/,True,,['pickyassist.com']
+Pon-Cat,https://www.pon-cat.com/nl/responsible-disclosure,True,,['pon-cat.com']
+Porkbun,https://porkbun.com/products/bug_bounty,True,False,['porkbun.com']
+Premier Hero,https://app.bugv.io/researcher/program/0000004/detail,True,,['premierhero.com']
+ProtonMail,https://protonmail.com/blog/protonmail-bug-bounty-program/,True,False,['protonmail.com']
+ProtonVPN,https://protonvpn.com/blog/bug-bounty-program/,True,False,"['protonvpn.com', 'protonvpn.ch']"
+PureVPN,https://www.purevpn.com/vulnerability-disclosure-policy,True,,['purevpn.com']
+Range,https://www.range.co/security/bounty,True,,['range.co']
+Razer,https://www.razer.com/security/bug-bounty-program,True,,['razer.com']
+Remitano,https://security.remitano.com/,True,,['remitano.com']
+Republik AG,https://gobugfree.com/programs/republik,True,,['republik.ch']
+Research Gate,https://explore.researchgate.net/display/support/Security+and+vulnerability,True,,['researchgate.net']
+RupiahToken,https://rupiahtoken.com/blog/bug-bounty-program,True,,['rupiahtoken.com']
+Samsung Mobile,https://security.samsungmobile.com/rewardsProgram.smsb,True,,['samsungmobile.com']
+Samsung TV,https://samsungtvbounty.com,True,,['samsung.com']
+Scholar Fund,https://www.scholarfundwa.org/bug-bounty,True,False,"['scholarfundwa.org', 'scholarfund.io']"
+Sendcloud,https://www.sendcloud.com/bug-bounty-program/,True,False,['sendcloud.com']
+Shakepay,https://legal.shakepay.com/bug-bounty-program,True,False,['shakepay.com']
+Silvergoldbull,https://silvergoldbull.se/en/bug-bounty,True,False,"['silvergoldbull.ca', 'silvergoldbull.de', 'silvergoldbull.com', 'sgb.co', 'alterx.com']"
+Smartling,https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy,True,,"['smartling.com', 'verbalizeit.com']"
+Smokescreen,https://www.smokescreen.io/responsible-disclosure-policy/,True,,['smokescreen.io']
+Spokeo,https://www.spokeo.com/bug-bounty,True,,"['spokeo.com', 'freepeopledirectory.com', 'spokeoaffiliates.com']"
+Stanford University,https://uit.stanford.edu/security/bug-bounty,True,,['stanford.edu']
+Swiggy,https://www.swiggy.com/bug-bounty,True,,['swiggy.com']
+Swisscom,https://github.com/swisscom/bugbounty,True,False,[]
+Synack,https://synack.responsibledisclosure.com/hc/en-us/,True,,['synack.com']
+T-Mobile CZ,https://www.t-mobile.cz/bug-bounty,True,,['t-mobile.cz']
+TD Bank,https://www.td.com/ca/en/about-td/privacy-and-security/report-vulnerability,True,,['td.com']
+Tencent,https://en.security.tencent.com,True,,"['qq.com', 'tencent.com', 'tenpay.com', 'dnspod.cn', 'weiyun.com']"
+Tokopedia,https://bounty.tokopedia.net/rules,True,False,"['tokopedia.net', 'tokopedia.com', 'tokopedia.id']"
+Touch Incentive Marketing,https://touchincentive.com/responsible-disclosure/,True,,['touchincentive.com']
+Traveloka,https://www.traveloka.com/en-id/bugs,True,,['traveloka.com']
+TryHackMe,https://help.tryhackme.com/en/articles/6495946-the-bug-bounty-program,True,True,['tryhackme.com']
+Tyk,https://app.zerocopter.com/en/rd/261e0379-9eb8-4de6-b45d-48e30891a8bb,True,,['tyk.io']
+Upstox,https://upstox.com/bug-bounty/,True,,['upstox.com']
+Vivo,https://security.vivo.com.cn/#/home,True,,"['vivo.com', 'vivo.xyz', 'vivo.cn']"
+VOLKIS,https://www.volkis.com.au/vulnerability-disclosure/,True,,"['volkis.com.au', 'volk.is']"
+Walla! Communication,https://www.walla.co.il/.well-know/security.txt,True,False,['walla.co.il']
+WEB.DE,https://bugbounty.web.de/english.html,True,,"['web.de', 'gmx.de', 'mail.com']"
+WINNI,https://www.winni.in/bug-bounty,True,,['winni.in']
+Wombat Exchange,https://immunefi.com/bounty/wombatexchange/,True,,['wombat.exchange']
+Yandex,https://yandex.com/bugbounty/index,True,,"['yandex.ru', 'yandex.com', 'yandex.com.tr', 'yandex.kz', 'yandex.ua', 'yandex.by', 'yandex.st', 'yandex.net', 'ya.ru', 'yandex-bank.net', 'kinopoisk.ru', 'auto.ru']"
+Yatra,https://www.yatra.com/online/bug-bounty,True,,['yatra.com']
+Zapier,https://zapier.com/engineering/bug-bounty-program/,True,,['zapier.com']
+Zerodha,https://zerodha.com/bug-bounty/,True,,"['zerodha.com', 'kite.trade']"
+Zoho,https://bugbounty.zoho.com/bb/info,True,False,"['site24x7.com', 'manageengine.com', 'qntrl.com', 'trainercentral.com', 'zoho.com']"
+Zoom,https://explore.zoom.us/docs/ent/h1.html,True,,"['zoomtopia.com', 'meetzoom.us', 'zoom.com', 'vartopia.com', 'zoomdev.us', 'dev-zoom.us', 'zoomus.cn', 'keybase.io', 'zoomgov.com', 'wistia.com', 'zoompso.com', 'zoomasiaresourcehub.com', 'vartopia.info', 'zoomonprem.com', 'zoomsvr.com', 'zoomtopiastore.com', 'zoom.us']"

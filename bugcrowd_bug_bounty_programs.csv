@@ -1,0 +1,78 @@
+name,url,bounty,swag,domains
+Acorns Grow,https://bugcrowd.com/acorns,True,,['acorns.com']
+Arlo Cash Rewards,https://bugcrowd.com/arlo,True,,['arlo.com']
+Asana,https://bugcrowd.com/asana,True,,"['asana.com', 'asana.plus', 'asana.biz']"
+Atlassian,https://bugcrowd.com/atlassian,True,,"['atlassian.net', 'atlassian.com']"
+Binance,https://bugcrowd.com/binance,True,,"['binance.com', 'binance.org', 'binance.co.ug', 'binance.je', 'binance.sg', 'binance.us']"
+BitDefender,https://bugcrowd.com/bitdefender,True,,"['bitdefender.com', 'bitdefender.net']"
+BitDiscovery,https://bugcrowd.com/bitdiscovery,True,,['bitdiscovery.com']
+Blue Jeans Network,https://bugcrowd.com/bluejeans,True,,['bluejeans.com']
+Bugcrowd,https://bugcrowd.com/bugcrowd,True,,['bugcrowd.com']
+Bullish,https://bugcrowd.com/bullish,True,,['bullish.com']
+Caffeine,https://bugcrowd.com/caffeine,True,,['caffeine.tv']
+Canva,https://bugcrowd.com/canva,True,,"['canva.com', 'canva.cn']"
+Cisco Meraki,https://bugcrowd.com/ciscomeraki,True,,"['ikarem.io', 'meraki.com', 'network-auth.com', 'cisco.com']"
+Cloudinary,https://bugcrowd.com/cloudinary,True,,['cloudinary.com']
+Cloudways,https://bugcrowd.com/cloudways,True,,['cloudways.com']
+Coindcx,https://bugcrowd.com/coindcx-og,True,,"['coindcx.com', 'dcxstage.com', 'dcxlearn.com']"
+Comcast Xfinity,https://bugcrowd.com/comcastvdp,True,,"['comcast.com', 'xfinity.com']"
+Dell Technologies,https://bugcrowd.com/dell-com,True,,"['dell.com', 'dellemc.com', 'delltechnologies.com', 'emc.com', 'rsa.com', 'rsaconference.com', 'secureworks.com']"
+Directly,https://bugcrowd.com/directly,True,,['directly.com']
+Elementor,https://bugcrowd.com/elementor,True,,['elementor.com']
+Etsy,https://bugcrowd.com/etsy,True,,"['etsy.com', 'etsypayments.com']"
+ExpressVPN,https://bugcrowd.com/expressvpn,True,,"['expressvpn.com', 'xvservice.net', 'expressobutiolem.onion']"
+FoxyCart,https://bugcrowd.com/foxycart,True,,['foxycart.com']
+Ibotta,https://bugcrowd.com/ibotta,True,,"['ibotta.com', 'ibops.net']"
+Indeed,https://bugcrowd.com/indeed,True,,"['indeed.com', 'indeed.tech']"
+Intercom,https://bugcrowd.com/intercom,True,,['intercom.io']
+InVision,https://bugcrowd.com/invision,True,,"['muz.li', 'invisionapp.com']"
+Jora,https://bugcrowd.com/jora,True,,"['jora.com', 'jora.xyz']"
+Kaleido,https://bugcrowd.com/kaleido,True,,"['remove.bg', 'designify.com', 'kaleido.ai', 'unscreen.com']"
+Keeper Security,https://bugcrowd.com/keepersecurity,True,,"['keepersecurity.com', 'keepersecurity.eu']"
+Kenna Security,https://bugcrowd.com/kennasecurity,True,,['kennasecurity.com']
+LastPass,https://bugcrowd.com/lastpass,True,,['lastpass.com']
+Lime,https://bugcrowd.com/lime,True,,"['lime.bike', 'limeinternal.com', 'li.me']"
+Linktree,https://bugcrowd.com/linktree-mbb-og,True,,"['odesli.co', 'song.link', 'album.link', 'artist.link', 'pods.link', 'playlist.link', 'mylink.page', 'linktree-extensions.com', 'linktree.com', 'odesli.com', 'songlink.io', 'tr.ee']"
+Lululemon,https://bugcrowd.com/lululemon,True,,"['lululemon.com', 'lululemon.co.uk']"
+MasterCard,https://bugcrowd.com/mastercard,True,,"['mastercard.ch', 'mastercard.nl', 'mastercard.ru', 'mastercard.us', 'simplify.com']"
+Monash MBB,https://bugcrowd.com/monash-mbb,True,,['monash.edu']
+Moneytree KK,https://bugcrowd.com/moneytreekkog,True,,"['getmoneytree.com', 'moneytree.jp']"
+Netflix,https://bugcrowd.com/netflix,True,,"['nflxso.net', 'nflxext.com', 'nflxvideo.net', 'nflximg.net', 'netflix.com']"
+Netgear,https://bugcrowd.com/netgear,True,,['netgear.com']
+Okta,https://bugcrowd.com/okta,True,,['oktapreview.com']
+OneTrust,https://bugcrowd.com/onetrust,True,,['onetrust.com']
+Opera Public Bug Bounty,https://bugcrowd.com/opera,True,,"['yoyogames.com', 'opera.com', 'opera.software', 'opera.technology', 'sec-tunnel.com']"
+Opsgenie,https://bugcrowd.com/opsgenie,True,,['opsgenie.com']
+Optimizely,https://bugcrowd.com/optimizely,True,,['optimizely.com']
+Origin Energy,https://bugcrowd.com/originenergy-og1,True,,"['origindigital-pac.com.au', 'odcdn.com.au', 'originenergy.com.au']"
+OWASP ZAP,https://bugcrowd.com/owaspzap,True,,['zaproxy.org']
+Personal Capital,https://bugcrowd.com/personalcapital,True,,['pcapcloud.com']
+Pexels,https://bugcrowd.com/pexels,True,,['pexels.com']
+Pinterest,https://bugcrowd.com/pinterest,True,,['pinterest.com']
+Pixabay,https://bugcrowd.com/pixabay,True,,['pixabay.com']
+PlanetHoster,https://bugcrowd.com/planethosterinc,True,,"['planethoster.net', 'n0c.com', 'planethoster.com']"
+Quizlet,https://bugcrowd.com/quizlet,True,,['quizlet.com']
+Rarible,https://bugcrowd.com/rarible-ogmbb,True,,['rarible.com']
+Redox,https://bugcrowd.com/redox,True,,['redoxengine.com']
+Seek,https://bugcrowd.com/seek,True,,"['seek.com.au', 'seek.com', 'skinfra.xyz', 'myseek.xyz', 'outfra.xyz', 'jobapi.net', 'certsy.com', 'certsynonprod.com', 'aips-internal.com', 'aips-services.com', 'jobapi.io', 'sol-data.com']"
+Shoppingcart,https://bugcrowd.com/shoppingcart,True,,['mcssl.com']
+Skyscanner,https://bugcrowd.com/skyscanner,True,,['skyscanner.net']
+Smartmockups,https://bugcrowd.com/smartmockups,True,,['smartmockups.com']
+Socrata,https://bugcrowd.com/tyler-tech-data-insights,True,,['test-socrata.com']
+Sophos,https://bugcrowd.com/sophos,True,,"['astaro.at', 'astaro.ch', 'astaro.com', 'astaro.de', 'astaro.info', 'astaro.net', 'astaro.org', 'cyberoam.com', 'fw-notify.net', 'hitmanpro.com', 'hitmanpro.nl', 'mojave.net', 'myastaro.com', 'reflexion.net', 'sophos.com', 'surfright.nl']"
+SoundCloud,https://bugcrowd.com/soundcloud,True,,"['repostnetwork.com', 'soundcloud.com', 'soundcloudmail.com', 'soundcloud.org', 's-cloud.net']"
+SpaceX,https://bugcrowd.com/spacex,True,,"['starlink.com', 'starlinkisp.net']"
+Square,https://bugcrowd.com/square,True,,"['squareup.com', 'square.com']"
+Statuspage,https://bugcrowd.com/statuspage,True,,['statuspage.io']
+Stellantis,https://bugcrowd.com/stellantis,True,,"['driveuconnect.com', 'driveuconnect.eu']"
+Takeaway,https://bugcrowd.com/takeaway,True,,"['lieferando.de', 'yourdelivery.de', 'takeaway.com', 'thuisbezorgd.nl', 'pyszne.pl', 'lieferando.at', 'scoober.com', 'citymeal.com', 'just-eat.fr', 'eat.ch', 'just-eat.no', 'just-eat.dk', 'bistro.sk', '10bis.co.il', 'justeattakeaway.com', 'takeawayriders.com']"
+Tesla,https://bugcrowd.com/tesla,True,,"['tesla.cn', 'tesla.com', 'tesla.services', 'teslamotors.com', 'teslainsuranceservices.com', 'solarcity.com']"
+Trello,https://bugcrowd.com/trello,True,,"['butlerfortrello.com', 'trello.com', 'trello.services']"
+Twilio,https://bugcrowd.com/twilio,True,,"['authy.com', 'twilio.com']"
+United Airlines,https://bugcrowd.com/united-vdp,True,,"['united.com', 'ual.com']"
+Upwork,https://bugcrowd.com/upwork,True,,['upwork.com']
+USAA,https://bugcrowd.com/usaa,True,,['usaa.com']
+Viator,https://bugcrowd.com/viator,True,,"['viator.com', 'viatorinc.com']"
+Western Union,https://bugcrowd.com/westernunion,True,,"['westernunion.at', 'westernunion.ie', 'westernunion.de', 'westernunion.co.uk', 'westernunion.com.au', 'westernunion.co.nz', 'westernunion.fr', 'westernunion.no', 'westernunion.es', 'westernunion.ca', 'westernunionbank.com', 'westernunion.dk', 'westernunion.it', 'westernunion.nl', 'westernunion.pt', 'westernunion.com', 'westernunion.ee', 'westernunion.se', 'westernunion.fi', 'westernunion.pl', 'westernunion.ch', 'westernunion.gr', 'westernunion.be', 'westernunion.lu', 'wuedge.com']"
+Wise,https://bugcrowd.com/wise,True,,"['wise.com', 'transferwise.com']"
+YNAB,https://bugcrowd.com/ynab,True,,['youneedabudget.com']
