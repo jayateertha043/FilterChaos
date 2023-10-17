@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore: 
+      - '*.csv'
 
 jobs:
   run_filter_chaos:
@@ -14,6 +16,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -56,8 +60,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "Github Actions"
+        git config --global user.email "jayateertha043@gmail.com"
+        git config --global user.name "jayateertha043"
         git add *.csv
         git commit -m "Update CSV files"
         git push
