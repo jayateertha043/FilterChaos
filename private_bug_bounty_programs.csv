@@ -22,6 +22,7 @@ Chargezoom,https://chargezoom.com/bugbounty/,True,,['payportal.net']
 Clickup,https://clickup.com/bug-bounty,True,,['clickup.com']
 Clio,https://support.clio.com/hc/en-us/articles/360001114273-How-do-I-Claim-a-Bug-Bounty-or-Report-a-Vulnerability-,True,,['clio.com']
 CodeChef,https://www.codechef.com/bug-bounty-program,True,False,['codechef.com']
+Compass Security,https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty,True,False,['compass-security.com']
 Custellence,https://custellence.com/responsible-disclosure.html,True,,['custellence.com']
 Cynical Technology,https://app.bugv.io/researcher/program/0000006/detail,True,,"['cynicaltechnology.com', 'cynicaltechnology.com.np', 'cynical.com.np']"
 D66,https://d66.nl/responsible-disclosure/,True,,['d66.nl']
@@ -46,6 +47,7 @@ Grafana Labs,https://github.com/grafana/bugbounty,True,,[]
 Grofers,https://grofers.com/bug-bounty,True,,['grofers.com']
 Groww,https://groww.in/p/security/,True,,['groww.in']
 H&M Group,https://www2.hm.com/security.txt,True,False,"['hm.com', 'cos.com', 'weekday.com', 'monki.com', 'arket.com', 'afound.com', 'stories.com']"
+Hacking-Lab,https://bugbounty.compass-security.com/bug-bounties/hacking-lab-bug-bounty,True,False,['hacking-lab.com']
 Hake Finance,https://immunefi.com/bounty/hakkafinance/,True,,"['hakka.finance', 'igain.finance']"
 Hootsuite,https://www.hootsuite.com/security,True,True,"['hootsuite.com', 'ow.ly']"
 Hostinger,https://www.hostinger.in/responsible-disclosure-policy,True,,"['hostinger.com', 'zyro.com', 'hosting24.com']"
