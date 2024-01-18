@@ -8,6 +8,7 @@ on:
       - main
     paths-ignore: 
       - '*.csv'
+  workflow_dispatch:
 
 jobs:
   run_filter_chaos:
