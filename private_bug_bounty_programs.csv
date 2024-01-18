@@ -1,4 +1,5 @@
 name,url,bounty,swag,domains
+84codes,https://www.84codes.com/security,True,,"['cloudamqp.com', 'cloudkarafka.com', 'elephantsql.com', 'cloudmqtt.com']"
 Achmea,https://www.achmea.nl/en/responsibledisclosure,True,,"['achmea.nl', 'syntrus.com', 'woonfonds.nl', 'fbto.nl', 'averoachmea.nl', 'union.sk', 'centraalbeheer.nl', 'defriesland.nl', 'eurocross.com', 'interpolis.nl', 'prolife.nl', 'zilverenkruis.nl', 'achmea.com.au', 'eurekosigorta.com.tr', 'interamerican.gr', 'actify.nl', 'onlia.ca']"
 Adafruit,https://www.adafruit.com/reportingsecurityissues,True,,"['adafruit.com', 'adafruitdaily.com']"
 Agicap,https://agicap.com/en/bug-bounty/,True,False,['agicap.com']
