@@ -25,6 +25,7 @@ BugPoC,https://hackerone.com/bugpoc,True,,"['bugpoc.com', 'bugpoc.ninja']"
 Casper,https://hackerone.com/casper,True,,"['casper.com', 'casper.tools']"
 Chainlink,https://hackerone.com/chainlink,True,,"['chain.link', 'smartcontract.com']"
 Chaturbate,https://hackerone.com/chaturbate,True,,"['chaturbate.com', 'securegatewayaccess.com', 'highwebmedia.com']"
+Chime,https://hackerone.com/chime,True,,"['chime.com', 'chimecard.com', 'chimebank.com', 'chimepayments.com', '1debit.com', 'chmfin.com']"
 Clario,https://hackerone.com/clario,True,,"['clario.co', 'mackeeper.com']"
 Cloudflare,https://hackerone.com/cloudflare,True,,"['cloudflare.com', 'cloudflareworkers.com', 'cloudflareaccess.com']"
 Cobinhood,https://hackerone.com/cobinhood,True,,"['cobinhood.exchange', 'cobinhood.com']"
@@ -48,7 +49,6 @@ Deribit,https://hackerone.com/deribit,True,,['deribit.com']
 DropBox,https://hackerone.com/dropbox,True,,"['dropbox.com', 'hellosign.com', 'helloworks.com', 'dropboxforum.com']"
 Elastic,https://hackerone.com/elastic,True,False,"['elastic.co', 'found.io', 'swiftype.com', 'elstc.co', 'elasticnet.co', 'eops.nl', 'elastic-cloud.com']"
 Eobot,https://hackerone.com/eobotcom,True,,['eobot.com']
-EPAM,https://hackerone.com/epam-bbp,True,,['epam.com']
 Epic Games,https://hackerone.com/epicgames,True,,"['rocketleague.com', 'psynet.gg', 'unrealtournament.com', 'epicgames.com', 'unrealengine.com', 'fortnite.com', 'epicgames.dev', 'psyonix.com', '3lateral.com', 'cubicmotion.com', 'oncatapult.com', 'fallguys.com', 'mediatonic.co.uk', 'artstation.com', 'easy.ac', 'sketchfab.com', 'quixel.com', 'superawesome.tv', 'superawesome.com', 'popjam.com', 'rukkaz.com', 'jellychat.com', 'bandcamp.com', 'amplitude-game.com', 'audicagame.com', 'dancecentral.com', 'dropmix.com', 'rockbandvr.com', 'singspacegame.com', 'superbeatsports.com', 'harmonixmusic.com', 'hmxservices.com', 'hmxwebservices.com']"
 eToro,https://hackerone.com/etoro_bbp,True,,"['etoro.com', 'etoropartners.com', 'delta.app']"
 Exness,https://hackerone.com/exness,True,False,"['exness.com', 'exness.asia', 'exnessaffiliates.com']"
@@ -77,8 +77,9 @@ Helium,https://hackerone.com/helium,True,,"['helium.systems', 'helium.com']"
 Hilton Bounty,https://hackerone.com/hilton,True,,"['hilton.com', 'hilton.io', 'hilton.com.tr', 'hiltonbusinessonline.com', 'hiltonjapan.co.jp', 'hiltonmanage.com']"
 Hyatt,https://hackerone.com/hyatt,True,,['hyatt.com']
 Hyperledger,https://hackerone.com/hyperledger,True,,['hyperledger.org']
+HYPR,https://hackerone.com/hypr-corp,True,,['hypr.com']
 Imgur,https://hackerone.com/imgur,True,,['imgur.com']
-inDrive,https://hackerone.com/indrive,True,,['indriver.com']
+inDrive,https://hackerone.com/indrive,True,,"['indriver.com', 'indriver.io', 'indrive.com', 'indriverapp.com', 'indriverjob.com', 'volans.tech']"
 ING Bank,https://hackerone.com/ing,True,,"['ing.com', 'ing.nl']"
 Insolar,https://hackerone.com/insolar,True,,['insolar.io']
 Instacart,https://hackerone.com/instacart,True,,"['instacart.com', 'instacart.tools']"
@@ -86,6 +87,7 @@ IOVLabs,https://hackerone.com/iovlabs,True,,['rsk.co']
 IRCCloud,https://hackerone.com/irccloud,True,,"['irccloud.com', 'irccloud-cdn.com']"
 JD.COM,https://hackerone.com/jd_com,True,,"['jd.com', '360buy.com']"
 Kindred Group,https://hackerone.com/kindred_group,True,,"['bingo.com', 'casinohuone.com', 'mariacasino.com', 'unibet.casino', 'storspiller.com', 'kolikkopelit.com', 'unibet.com', '32red.com', 'unibet.fr', 'kindredext.net', 'ottokasino.com', 'stly.eu', 'maria.casino', 'unibet.me', 'vladcazino.ro', 'igame.com']"
+Kiwi.com,https://hackerone.com/kiwicom,True,,"['kiwi.com', 'skypicker.com']"
 Kraden,https://hackerone.com/kraden,True,,"['dragonapp.io', 'getdragon.ch']"
 Kubernetes,https://hackerone.com/kubernetes,True,,"['kubernetes.io', 'k8s.io', 'gcr.io']"
 Larksuite,https://hackerone.com/lark_technologies,True,,"['larksuite.com', 'byteoversea.com']"
@@ -101,6 +103,7 @@ Logitech,https://hackerone.com/logitech,True,,"['logi.com', 'streamlabs.com', 't
 Lyst,https://hackerone.com/lyst,True,,"['lystit.com', 'lyst.com', 'lyst.co']"
 Magento,https://hackerone.com/magento,True,,"['magento.com', 'magento.cloud', 'magentocommerce.com', 'magentolive.com']"
 Magisto,https://hackerone.com/magisto,True,,['magisto.com']
+Malwarebytes,https://hackerone.com/malwarebytes,True,,"['malwarebytes.com', 'mb-cosmos.com', 'mwbsys.com', 'mbamupdates.com', 'mwb-threatintel.com', 'threatdown.com']"
 Mapbox,https://hackerone.com/mapbox,True,,['mapbox.com']
 Matomo,https://hackerone.com/matomo,True,,"['matomo.org', 'innocraft.cloud']"
 MercadoLibre,https://hackerone.com/mercadolibre,True,,['mercadolibre.com']
@@ -129,7 +132,6 @@ Pixiv,https://hackerone.com/pixiv,True,,"['pixiv.net', 'booth.pm', 'vroid.com', 
 Plaid,https://hackerone.com/plaid,True,,['plaid.com']
 Playstation,https://hackerone.com/playstation,True,,"['playstation.net', 'sonyentertainmentnetwork.com', 'playstation.com']"
 Poloniex,https://hackerone.com/poloniex,True,,['poloniex.com']
-Pornhub,https://hackerone.com/pornhub,True,,"['pornhub.com', 'pornhubpremium.com']"
 PortSwigger Web Security,https://hackerone.com/portswigger,True,,"['portswigger.net', 'web-security-academy.net']"
 Postmates,https://hackerone.com/postmates,True,,['postmates.com']
 Priceline,https://hackerone.com/priceline,True,,"['rezserver.com', 'priceline.com', 'bookingholdings.com']"
@@ -139,13 +141,13 @@ Rabobank,https://hackerone.com/rabobank,True,,"['rabobank.nl', 'rabobank.com']"
 RecargaPay,https://hackerone.com/recargapay,True,,"['recarga.com', 'recargapay.com.br']"
 Recorded Future,https://hackerone.com/recorded-future,True,,"['recordedfuture.com', 'therecord.media']"
 Reddit,https://hackerone.com/reddit,True,,"['reddit.com', 'snooguts.net', 'redd.it', 'redditblog.com', 'redditmedia.com', 'redditstatic.com', 'redditgifts.com', 'reddituploads.com', 'redditinc.com', 'reddithelp.com', 'dubsmash.com']"
-Redtube,https://hackerone.com/redtube,True,,['redtube.com']
 Riot Games,https://hackerone.com/riot/,True,False,['riotgames.com']
 Robinhood,https://hackerone.com/robinhood,True,,['robinhood.com']
 Roblox,https://hackerone.com/roblox,True,,"['roblox.com', 'rbx.com']"
 Rockstar Games,https://hackerone.com/rockstargames,True,,"['rockstargames.com', 'lifeinvader.com', 'rockstarnorth.com']"
 RubyGems,https://hackerone.com/rubygems,True,,['rubygems.org']
 Savedroid,https://hackerone.com/savedroid,True,,['savedroid.com']
+Say Technologies,https://hackerone.com/saytechnologies,True,,"['say.rocks', 'saytechnologies.com']"
 Scopely,https://hackerone.com/scopely,True,,"['scopely.io', 'scopely.com', 'withbuddies.com']"
 SecNews,https://hackerone.com/secnews,True,,['secnews.gr']
 SEMrush,https://hackerone.com/semrush,True,,"['berush.com', 'semrush.com', 'labs-semrush.com', 'sellzone.com', 'semrush.net', 'semrushchina.cn', 'seoquake.com', 'hr-semrush.com', 'sellerly.com', 'seoab.io', 'scatec.io']"
@@ -169,7 +171,6 @@ Trade Republic,https://hackerone.com/trade-republic-bbp,True,,['traderepublic.co
 Trendyol,https://hackerone.com/trendyol,True,False,"['trendyol.com', 'dolap.com']"
 Trustpilot,https://hackerone.com/trustpilot,True,,['trustpilot.com']
 TTS Bug Bounty,https://hackerone.com/tts,True,,"['data.gov', '18f.gov', 'cloud.gov', 'search.gov', 'vote.gov', 'fedramp.gov', 'usa.gov', 'gsa.gov', 'code.gov', 'login.gov']"
-Tube8,https://hackerone.com/tube8,True,,"['tube8.com', 'tube8.es', 'tube8.fr']"
 Twitter,https://hackerone.com/twitter,True,,"['mopub.com', 'pscp.tv', 'periscope.tv', 'niche.co', 'twitterflightschool.com', 'twimg.com', 'vine.co', 'twitter.com', 'gnip.com', 'snappytv.com']"
 Uber,https://hackerone.com/uber,True,,['uber.com']
 Ubiquiti,https://hackerone.com/ui,True,,"['ubnt.com', 'ui.com']"

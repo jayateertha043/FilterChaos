@@ -49,6 +49,7 @@ Groww,https://groww.in/p/security/,True,,['groww.in']
 H&M Group,https://www2.hm.com/security.txt,True,False,"['hm.com', 'cos.com', 'weekday.com', 'monki.com', 'arket.com', 'afound.com', 'stories.com']"
 Hacking-Lab,https://bugbounty.compass-security.com/bug-bounties/hacking-lab-bug-bounty,True,False,['hacking-lab.com']
 Hake Finance,https://immunefi.com/bounty/hakkafinance/,True,,"['hakka.finance', 'igain.finance']"
+Hike,https://bugbase.in/programs/hike-bugbounty,True,False,"['getrushapp.com', 'hike.in']"
 Hootsuite,https://www.hootsuite.com/security,True,True,"['hootsuite.com', 'ow.ly']"
 Hostinger,https://www.hostinger.in/responsible-disclosure-policy,True,,"['hostinger.com', 'zyro.com', 'hosting24.com']"
 HTC,https://www.htc.com/in/terms/product-security/,True,,['htc.com']
@@ -64,7 +65,7 @@ LogMeOnce,https://www.logmeonce.com/vulnerability-disclosure-policy/,True,,['log
 Make,https://www.make.com/en/bounty,True,False,['make.com']
 MakeMyTrip,https://www.makemytrip.com/pwa-hlp/mmtbb/report,True,,['makemytrip.com']
 MakerDAO Ecosystem,https://immunefi.com/bounty/makerdao/,True,,['makerdao.com']
-McDelivery,https://www.mcdelivery.co.in/bug-bounty,True,,['mcdelivery.co.in']
+McDelivery,https://mcdelivery.co.in/bug-bounty,True,,['mcdelivery.co.in']
 Meituan,https://security.meituan.com/,True,,"['meituan.com', 'meituan.net', 'dianping.com', 'neixin.cn']"
 Microsoft Online Services,https://www.microsoft.com/en-us/msrc/bounty-online-services,True,,"['office.com', 'live.com', 'onedrive.com', 'office365.com', 'sharepoint.com', 'lync.com', 'yammer.com', 'sway.com', 'microsoft.com', 'live.net', 'skype.com']"
 MobiKwik,https://www.mobikwik.com/bug-bounty/guidelines,True,False,['mobikwik.com']
@@ -93,7 +94,7 @@ Picky Assist,https://pickyassist.com/blog/bug-bounty-program-bug-beacon/,True,,[
 Pon-Cat,https://www.pon-cat.com/nl/responsible-disclosure,True,,['pon-cat.com']
 Porkbun,https://porkbun.com/products/bug_bounty,True,False,['porkbun.com']
 Premier Hero,https://app.bugv.io/researcher/program/0000004/detail,True,,['premierhero.com']
-ProtonMail,https://protonmail.com/blog/protonmail-bug-bounty-program/,True,False,['protonmail.com']
+ProtonMail,https://proton.me/security/bug-bounty,True,False,['protonmail.com']
 ProtonVPN,https://protonvpn.com/blog/bug-bounty-program/,True,False,"['protonvpn.com', 'protonvpn.ch']"
 PureVPN,https://www.purevpn.com/vulnerability-disclosure-policy,True,,['purevpn.com']
 Range,https://www.range.co/security/bounty,True,,['range.co']
@@ -116,11 +117,11 @@ Swiggy,https://www.swiggy.com/bug-bounty,True,,['swiggy.com']
 Swisscom,https://github.com/swisscom/bugbounty,True,False,[]
 Synack,https://synack.responsibledisclosure.com/hc/en-us/,True,,['synack.com']
 T-Mobile CZ,https://www.t-mobile.cz/bug-bounty,True,,['t-mobile.cz']
-TD Bank,https://www.td.com/ca/en/about-td/privacy-and-security/report-vulnerability,True,,['td.com']
 Tencent,https://en.security.tencent.com,True,,"['qq.com', 'tencent.com', 'tenpay.com', 'dnspod.cn', 'weiyun.com']"
+Threema,https://app.gobugfree.com/programs/threema,True,,['threema.ch']
 Tokopedia,https://bounty.tokopedia.net/rules,True,False,"['tokopedia.net', 'tokopedia.com', 'tokopedia.id']"
 Touch Incentive Marketing,https://touchincentive.com/responsible-disclosure/,True,,['touchincentive.com']
-Traveloka,https://www.traveloka.com/en-id/bugs,True,,['traveloka.com']
+Traveloka,https://www.traveloka.com/en-id/bugs,True,,"['traveloka.com', 'tvlk-data.com', 'travelokapay.com', 'tvlk-pay.com']"
 TryHackMe,https://help.tryhackme.com/en/articles/6495946-the-bug-bounty-program,True,True,['tryhackme.com']
 Tyk,https://app.zerocopter.com/en/rd/261e0379-9eb8-4de6-b45d-48e30891a8bb,True,,['tyk.io']
 Upstox,https://upstox.com/bug-bounty/,True,,['upstox.com']
