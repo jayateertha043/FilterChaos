@@ -6,7 +6,6 @@ Agicap,https://agicap.com/en/bug-bounty/,True,False,['agicap.com']
 Amon,https://amon.tech/bug-bounty-program,True,False,['amon.tech']
 Apple,https://security.apple.com,True,False,"['apple.com', 'icloud.com']"
 Apsis,https://www.apsis.com/bug-bounty,True,,['apsis.com']
-Arrival,https://arrival.com/legal/security#purpose,True,False,"['arrival.com', 'arrival.co']"
 Automata Network,https://www.ata.network/bugbounty,True,,"['ata.network', '1rpc.io', '2fa.guru', 'nftfair.app', 'anydao.app', 'xata.fi']"
 Avail Carsharing,https://availcarsharing.com/bug-bounty,True,False,['availcarsharing.com']
 AVROTROS,https://www.avrotros.nl/privacy/responsible-disclosure/,True,,['avrotros.nl']
