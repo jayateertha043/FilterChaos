@@ -40,6 +40,7 @@ Facebook,https://www.facebook.com/whitehat,True,,"['facebook.com', 'fb.com', 'fb
 fidentity,https://gobugfree.com/programs/fidentity,True,,['fidentity.ch']
 Fondy,https://docs.fondy.eu/en/docs/page/bug-bounty-program,True,False,"['fondy.eu', 'fondy.io', 'fondy.ua', 'fondy.ru', 'cloudipsp.com', 'cipsp.net']"
 Geotab,https://community.geotab.com/s/article/How-to-report-security-vulnerabilities?language=en_US,True,False,['geotab.com']
+Global Media Services,https://global.com/bug-bounty-policy/,True,False,"['global.com', 'dax.global.com', 'heart.co.uk', 'smoothradio.com', 'capitalfm.com', 'capitaldance.com', 'capitalxtra.com', 'radiox.co.uk', 'classicfm.com', 'lbc.co.uk', 'goldradiouk.com', 'bigtop40.com', 'globalplayer.com', 'popbuzz.com', 'makesomenoise.com', 'jobs.global.com', 'remixd.com']"
 GObugfree,https://gobugfree.com/programs/bbh,True,,['gobugfree.com']
 Google,https://www.google.com/about/appsecurity/reward-program/,True,,"['google.com', 'youtube.com', 'projectbaseline.com', 'onduo.com', 'verily.com', 'blogger.com', 'signalpath.com']"
 Grafana Labs,https://github.com/grafana/bugbounty,True,,[]
